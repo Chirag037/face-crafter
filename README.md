@@ -19,7 +19,7 @@ A fun and creative Python GUI application that generates custom emoji faces base
 - **Mood-Specific Elements**: 
   - 😎 Sunglasses for "Cool" mood
   - ✨ Sparkles for "Excited" mood  
-  - 💤 Z's floating for "Sleepy" mood
+  - 💤 Z's floating for "Sleepy" mood  
   - And much more!
 
 ### 📁 Collection System  
