@@ -18,7 +18,7 @@ A fun and creative Python GUI application that generates custom emoji faces base
 - **Dynamic Features**: Customizable eyes, eyebrows, mouths, cheeks, and special effects  
 - **Mood-Specific Elements**: 
   - 😎 Sunglasses for "Cool" mood
-  - ✨ Sparkles for "Excited" mood
+  - ✨ Sparkles for "Excited" mood  
   - 💤 Z's floating for "Sleepy" mood
   - And much more!
 
