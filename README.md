@@ -5,7 +5,7 @@ A fun and creative Python GUI application that generates custom emoji faces base
 ![FaceCrafter Demo](demo/facecrafter_demo.gif)
 *Generate custom emojis based on your mood!*
 
-## ✨ Features  
+## ✨ Features    
 
 ### 🎭 Mood-Based Generation
   
