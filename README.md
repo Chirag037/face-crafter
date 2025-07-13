@@ -9,7 +9,7 @@ A fun and creative Python GUI application that generates custom emoji faces base
 
 ### 🎭 Mood-Based Generation
   
-- **8 Different Moods**: Happy, Sad, Angry, Excited, Sleepy, Surprised, Cool, Confused
+- **8 Different Moods**: Happy, Sad, Angry, Excited, Sleepy, Surprised, Cool, Confused  
 - Each mood features unique facial expressions, colors, and characteristics
 - Randomized elements ensure variety in every generation
 
