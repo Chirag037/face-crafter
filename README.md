@@ -16,7 +16,7 @@ A fun and creative Python GUI application that generates custom emoji faces base
 
 ### 🎨 Advanced Emoji Creation
 - **Custom Drawing Engine**: Built with PIL for detailed, high-quality emoji faces
-- **Dynamic Features**: Customizable eyes, eyebrows, mouths, cheeks, and special effects
+- **Dynamic Features**: Customizable eyes, eyebrows, mouths, cheeks, and special effects  
 - **Mood-Specific Elements**: 
   - 😎 Sunglasses for "Cool" mood
   - ✨ Sparkles for "Excited" mood
