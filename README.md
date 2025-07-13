@@ -22,7 +22,7 @@ A fun and creative Python GUI application that generates custom emoji faces base
   - 💤 Z's floating for "Sleepy" mood
   - And much more!
 
-### 📁 Collection System
+### 📁 Collection System  
 - **Save & Organize**: Build your personal emoji collection
 - **Gallery View**: Browse all saved emojis with timestamps and mood information
 - **Persistent Storage**: Automatic saving with JSON database and PNG files
